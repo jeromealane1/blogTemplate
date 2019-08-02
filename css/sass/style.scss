@@ -1,0 +1,19 @@
+@import 'reset';
+
+$primary-color: #333;
+
+#article_dates_list {
+	ul {
+		//display:none
+	}
+
+	ul li ul{
+		//display:none;
+	}
+}
+#article_list {
+	display:none;
+}
+#article_month {
+	display:none;
+}
